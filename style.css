@@ -1,0 +1,55 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner-img{
+    width: 100%;
+}
+
+#banner-dialoauge{
+    color: #113CFC;
+    font-weight: bold;
+    font-size: larger;
+    letter-spacing: 0in;
+
+}
+
+
+
+.banner-dialoauge2{
+    color: gray;
+    font-weight: bold;
+    letter-spacing: 0in;
+    
+}
+
+.buy-now{
+    background-image: linear-gradient(#1488CC,#2B32B2);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 9px 25px;
+    cursor: pointer;
+    font-size: small;
+}
+
+.pen-card img{
+    background-color: whitesmoke;
+    width: 100%;
+    height: 30vw;
+    object-fit: cover;
+    
+}
+
+.pan-title{
+    color: gray;
+    font-weight: 550;
+}
+
+.price{
+    color: #0F00FF;
+    font-weight: 700;
+    font-size: 30px;
+    margin-top: 21px;
+}
+
